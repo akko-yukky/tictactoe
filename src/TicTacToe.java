@@ -1,6 +1,8 @@
+import java.io.IOException;
+
 public class TicTacToe {
     //マルバツゲーム
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         Field board = new Field();
         Player player = new Player();
         Opponent opponent = new Opponent();
