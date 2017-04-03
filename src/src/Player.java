@@ -1,3 +1,6 @@
+package src;
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -16,8 +19,7 @@ public class Player {
             if (!(coord[i][j] == 0)) {
                 coord[i][j] = 1;
                 break;
-            } else if
-        } {
+            } else {
             System.out.println("不正な入力です。");
             continue;
         }
