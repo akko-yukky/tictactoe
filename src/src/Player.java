@@ -1,5 +1,8 @@
+<<<<<<< HEAD:src/src/Player.java
 package src;
 
+=======
+>>>>>>> 76031e7739d2da3700a57adfc4d3ac103269d5a6:src/Player.java
 
 import java.io.BufferedReader;
 import java.io.IOException;
