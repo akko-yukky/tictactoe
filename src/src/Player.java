@@ -1,3 +1,8 @@
+<<<<<<< HEAD:src/src/Player.java
+package src;
+
+=======
+>>>>>>> 76031e7739d2da3700a57adfc4d3ac103269d5a6:src/Player.java
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -17,8 +22,7 @@ public class Player {
             if (!(coord[i][j] == 0)) {
                 coord[i][j] = 1;
                 break;
-            } else if
-        } {
+            } else {
             System.out.println("不正な入力です。");
             continue;
         }
